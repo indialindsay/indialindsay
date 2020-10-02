@@ -15,7 +15,13 @@ My name is India. I'm passionate about using technology to put together the puzz
   Predicting whether a song will be a hit or a flop using the measurable patterns within a song's features
 
 #### [Text Analytics](https://github.com/indialindsay/Text_Analytics_Projects)
-- [Brand/Attribute Discussion Forum Analysis](https://github.com/indialindsay/Text_Analytics_Projects/blob/master/Brand_Attribute_Forum_Text_Analysis.ipynb)
+- ##### [Brand/Attribute Discussion Forum Analysis](https://github.com/indialindsay/Text_Analytics_Projects/blob/master/Brand_Attribute_Forum_Text_Analysis.ipynb)
   
   Calculating associations between brands and product attributes mentioned within online discussion forums
+  
+#### Storytelling
+- ##### [Is A Green Building Worth It?](https://github.com/indialindsay/Green-Buildings)
+  Examining the commercial real-estate market data to determine if tenants are willing to pay a premium for rental space in green buildings.
+  
+  
 
