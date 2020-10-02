@@ -6,3 +6,16 @@ My name is India. I'm passionate about using technology to put together the puzz
 - 🌱 I like to work with Python and R. 
 - 😄 Pronouns: she/her
 
+
+### Check out some of my projects: 
+
+#### Python 
+
+- ##### [Was pop music in the 2000's formulaic?](https://github.com/indialindsay/Hot-Or-Not)
+  Predicting whether a song will be a hit or a flop using the measurable patterns within a song's features
+
+#### [Text Analytics](https://github.com/indialindsay/Text_Analytics_Projects)
+- [Brand/Attribute Discussion Forum Analysis](https://github.com/indialindsay/Text_Analytics_Projects/blob/master/Brand_Attribute_Forum_Text_Analysis.ipynb)
+  
+  Calculating associations between brands and product attributes mentioned within online discussion forums
+
