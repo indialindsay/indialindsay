@@ -25,8 +25,5 @@ My name is India. I'm passionate about using technology to put together the puzz
 #### Storytelling
 - ##### [Is A Green Building Worth It?](https://github.com/indialindsay/Green-Buildings)
   Examining the commercial real-estate market data to determine if tenants are willing to pay a premium for rental space in green buildings
-- ##### [What Can We Learn From Our Food?](https://github.com/indialindsay/What-Can-We-Learn-From-Our-Food)
-  Exploring products uploaded onto an international food products database to compare and contrast dietary habits of different countries 
-  
-  
+
  
