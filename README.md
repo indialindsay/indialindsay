@@ -23,6 +23,8 @@ My name is India. I'm passionate about using technology to put together the puzz
 
   
 #### Storytelling
+- ##### [What Can We Learn From Our Food?](https://github.com/indialindsay/What-Can-We-Learn-From-Our-Food/blob/master/README.md)
+  Exploring worldwide dietary habits using an open-sourced food products database
 - ##### [Is A Green Building Worth It?](https://github.com/indialindsay/Green-Buildings)
   Examining the commercial real-estate market data to determine if tenants are willing to pay a premium for rental space in green buildings
 
