@@ -15,11 +15,10 @@ My name is India. I'm passionate about using technology to put together the puzz
   Predicting whether a song will be a hit or a flop using the measurable patterns within a song's features
 
 #### [Natural Language Processing](https://github.com/indialindsay/Text_Analytics_Projects)
-- ##### [Brand/Attribute Discussion Forum Analysis](https://github.com/indialindsay/Text_Analytics_Projects/blob/master/Brand_Attribute_Forum_Text_Analysis.ipynb)
-  Calculating associations between brands and product attributes mentioned within online discussion forums
 - ##### [Recommendation System](https://github.com/indialindsay/Text_Analytics_Projects#beer-recommendation-system)
   A collaborative filter combining a customer's desired features with reviews scraped from an online beer rating website to recommend top three similar products
-  
+- ##### [Brand/Attribute Discussion Forum Analysis](https://github.com/indialindsay/Text_Analytics_Projects#brandattribute-discussion-forum-analysis)
+  Calculating associations between brands and product attributes mentioned within online discussion forums
 
   
 #### Storytelling
