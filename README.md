@@ -15,6 +15,8 @@ My name is India. I'm passionate about using technology to put together the puzz
   Predicting whether a song will be a hit or a flop using the measurable patterns within a song's features
 
 #### [Natural Language Processing](https://github.com/indialindsay/Text_Analytics_Projects)
+- ##### [Increasing Instagram Engagement: Zara](https://github.com/indialindsay/Text_Analytics_Projects/blob/master/README.md#how-can-zara-increase-user-engagement-on-instagram)
+  Deployed LDA topic modeling and logistic regression to identify relevant features within instagram posts to identify features within posts that lead to increased user engagment
 - ##### [Recommendation System](https://github.com/indialindsay/Text_Analytics_Projects#beer-recommendation-system)
   A collaborative filter combining a customer's desired features with reviews scraped from an online beer rating website to recommend top three similar products
 - ##### [Brand/Attribute Discussion Forum Analysis](https://github.com/indialindsay/Text_Analytics_Projects#brandattribute-discussion-forum-analysis)
