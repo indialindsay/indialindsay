@@ -11,7 +11,7 @@ My name is India. I'm passionate about using technology to put together the puzz
 
 #### Modeling
 
-- ##### [Anomaly Detection in Energy Constumption](https://github.com/indialindsay/Anomaly_Detection)
+- ##### [Anomaly Detection in Energy Consumption](https://github.com/indialindsay/Anomaly_Detection)
   A thorough approach to identifying anomalies in building energy consumption 
 - ##### [Was pop music in the 2000's formulaic?](https://github.com/indialindsay/Hot-Or-Not)
   Predicting whether a song will be a hit or a flop using the measurable patterns within a song's features
