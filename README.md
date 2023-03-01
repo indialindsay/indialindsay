@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is India. I'm passionate about using technology to put together our world's puzzle pieces.
+My name is India. 
 
 
 - 🌱 I like to work with Python and R. 
